@@ -3,10 +3,10 @@ Habit-Tracking es una app desarrollada en SwiftUI, que permite a los usuarios re
 
 ## Características:
 - Registrar y eliminar actividades o habitos, contar completaciones y visualizar datos.
-- Retos como:
--  1. Manejo de estado y persistencia de datos.
-   2. Navegación entre vistas.
-   3. Interfaz de usuario, personalizando el contador de actividades entre otras.
+### Retos como:
+### 1. Manejo de estado y persistencia de datos.
+### 2. Navegación entre vistas.
+### 3. Interfaz de usuario, personalizando el contador de actividades entre otras.
   
 
 
